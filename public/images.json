@@ -1,0 +1,88 @@
+{
+  "images": [
+    {
+      "url": "/image2.jpg",
+      "id": 1,
+      "caption": "A beautiful mountain landscape",
+      "description": "This stunning photo captures the majesty of the mountains, with snow-capped peaks rising above a tranquil lake. The vivid blue sky and soft clouds add to the sense of peace and serenity."
+    },
+    {
+      "url": "/image3.jpg",
+      "id": 2,
+      "description": "A delicious and healthy salad with fresh greens and vegetables.",
+      "caption": "Healthy Salad"
+    },
+    {
+      "url": "/image4.jpg",
+      "id": 3,
+      "description": "A dog with its tongue out and wearing sunglasses sitting in a car.",
+      "caption": "Cool Dog in Car"
+    },
+    {
+      "url": "/image5.jpg",
+      "id": 4,
+      "caption": "A breathtaking sunset over the ocean",
+      "description": "This awe-inspiring photo captures the beauty of a fiery orange sunset over the ocean, with the waves crashing against the shore and seagulls soaring overhead. The vibrant colors and dramatic scenery make this a truly unforgettable moment."
+    },
+    {
+      "url": "/image6.jpg",
+      "id": 5,
+      "caption": "A field of colorful flowers",
+      "description": "This stunning photo showcases a vast field of vibrant flowers, with hues of pink, purple, and yellow blending together to create a stunning display of natural beauty. The soft, blurry background adds depth to the image, making it even more striking."
+    },
+    {
+      "url": "/image7.jpg",
+      "id": 6,
+      "description": "A close-up of a green succulent plant.",
+      "caption": "Green Succulent"
+    },
+    {
+      "url": "/image8.jpg",
+      "id": 7,
+      "description": "A person walking on a path through a forest with fall foliage.",
+      "caption": "Autumn Hike"
+    },
+    {
+      "url": "/image9.jpg",
+      "id": 8,
+      "description": "A woman sitting at a table working on a laptop in a coffee shop.",
+      "caption": "Working at a Coffee Shop"
+    },
+    {
+      "url": "/image10.jpg",
+      "id": 9,
+      "description": "A cat with its eyes closed sleeping on a pillow.",
+      "caption": "Sleepy Cat"
+    },
+    {
+      "url": "https://images.pexels.com/photos/1491939/pexels-photo-1491939.jpeg",
+      "id": 10,
+      "description": "A cat sitting on a windowsill, looking outside.",
+      "caption": "Curious Cat"
+    },
+    {
+      "url": "https://images.pexels.com/photos/220201/pexels-photo-220201.jpeg",
+      "id": 11,
+      "description": "A beautiful orange and yellow sunset over a lake.",
+      "caption": "Sunset on the Lake"
+    },
+    {
+      "url": "https://images.pexels.com/photos/3408741/pexels-photo-3408741.jpeg",
+      "id": 12,
+      "description": "A group of people kayaking in a clear blue lake surrounded by mountains.",
+      "caption": "Kayaking Adventure"
+    },
+    {
+      "url": "https://images.pexels.com/photos/3768164/pexels-photo-3768164.jpeg",
+      "id": 13,
+      "description": "A person sitting on a wooden bench in front of a beautiful sunset over the ocean.",
+      "caption": "Sunset Serenity"
+    },
+    {
+      "url": "/image1.jpg",
+      "id": 14,
+      "description": "A person sitting on a wooden bench in front of a beautiful sunset over the ocean.",
+      "caption": "Sunset Serenity"
+    }
+  ]
+}
